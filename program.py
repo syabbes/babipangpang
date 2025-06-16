@@ -8,7 +8,7 @@ GPIO.setmode(GPIO.BCM)  # Use bcm
 
 #initialiseer pygame
 pygame.init()
-screen = pygame.display.set_mode((1024, 600))
+screen = pygame.display.set_mode((500, 500))
 pygame.display.set_caption("Hello, Pygame")
 # main
 
